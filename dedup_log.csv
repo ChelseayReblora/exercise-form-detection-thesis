@@ -1,0 +1,65 @@
+timestamp,action,kept_file,removed_file,new_location
+2026-08-27T21:25:12,quarantined,ex1\good\r3(1).mov,ex1\good\Copy of r3(3).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(3).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(1).mov,ex1\good\Copy of r3(9).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(9).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(1).mov,ex1\good\Copy of Copy of r3(1).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r3(1).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(8).mov,ex1\good\Copy of r3(7).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(7).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(8).mov,ex1\good\Copy of r3(11).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(11).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(8).mov,ex1\good\Copy of Copy of r3(2).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r3(2).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(6).mov,ex1\good\Copy of r3(2).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(2).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(6).mov,ex1\good\Copy of r3(10).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(10).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(6).mov,ex1\good\Copy of Copy of r3.mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r3.mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3.mp4,ex1\good\Copy of r3.mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3.mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r3.mp4,ex1\good\Copy of r3(1).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(1).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r3.mp4,ex1\good\Copy of Copy of r3.mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r3.mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4(2).mov,ex1\good\Copy of r4.mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4.mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(2).mov,ex1\good\Copy of r4(5).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(5).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(2).mov,ex1\good\Copy of Copy of r4(1).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4(1).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(2).mp4,ex1\good\Copy of r4.mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4.mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4(2).mp4,ex1\good\Copy of r4(5).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(5).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4(2).mp4,ex1\good\Copy of Copy of r4(1).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4(1).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4(4).mov,ex1\good\Copy of r4(1).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(1).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(4).mov,ex1\good\Copy of r4(9).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(9).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(4).mov,ex1\good\Copy of Copy of r4(2).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4(2).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(1).mp4,ex1\good\Copy of r4(1).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(1).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4(1).mp4,ex1\good\Copy of r4(7).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(7).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4(1).mp4,ex1\good\Copy of Copy of r4(2).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4(2).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mov,ex1\good\Copy of r4(2).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(2).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mov,ex1\good\Copy of r4(6).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(6).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mov,ex1\good\Copy of Copy of r4(3).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4(3).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mp4,ex1\good\r4(3).mp4,Cut Vids Final\_duplicates_removed\ex1\good\r4(3).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mp4,ex1\good\Copy of r4(2).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(2).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mp4,ex1\good\Copy of r4(3).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(3).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mp4,ex1\good\Copy of r4(4).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(4).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mp4,ex1\good\Copy of r4(6).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(6).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mp4,ex1\good\Copy of Copy of r4.mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4.mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4.mp4,ex1\good\Copy of Copy of r4(3).mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4(3).mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r4(3).mov,ex1\good\Copy of r4(3).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(3).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(3).mov,ex1\good\Copy of r4(7).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(7).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(3).mov,ex1\good\Copy of Copy of r4(4).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4(4).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(1).mov,ex1\good\Copy of r4(4).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(4).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(1).mov,ex1\good\Copy of r4(8).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r4(8).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r4(1).mov,ex1\good\Copy of Copy of r4.mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of Copy of r4.mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(5).mov,ex1\good\Copy of r1(1).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(1).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1.mov,ex1\good\Copy of r1(10).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(10).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(2).mov,ex1\good\Copy of r1(2).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(2).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(10).mov,ex1\good\Copy of r1(3).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(3).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(1).mov,ex1\good\Copy of r1(4).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(4).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(4).mov,ex1\good\Copy of r1(5).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(5).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(6).mov,ex1\good\Copy of r1(6).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(6).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(8).mov,ex1\good\Copy of r1(7).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(7).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(9).mov,ex1\good\Copy of r1(8).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(8).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(3).mov,ex1\good\Copy of r1(9).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1(9).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r1(7).mov,ex1\good\Copy of r1.mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r1.mov
+2026-08-27T21:25:12,quarantined,ex1\good\r2(1).mov,ex1\good\Copy of r2(1).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r2(1).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r2(4).mov,ex1\good\Copy of r2(2).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r2(2).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r2(2).mov,ex1\good\Copy of r2(3).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r2(3).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r2(5).mov,ex1\good\Copy of r2(4).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r2(4).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r2.mov,ex1\good\Copy of r2(5).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r2(5).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r2(3).mov,ex1\good\Copy of r2.mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r2.mov
+2026-08-27T21:25:12,quarantined,ex1\good\r2.mp4,ex1\good\Copy of r2.mp4,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r2.mp4
+2026-08-27T21:25:12,quarantined,ex1\good\r3.mov,ex1\good\Copy of r3(1).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(1).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(5).mov,ex1\good\Copy of r3(4).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(4).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(7).mov,ex1\good\Copy of r3(5).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(5).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(2).mov,ex1\good\Copy of r3(6).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(6).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(3).mov,ex1\good\Copy of r3(8).mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3(8).mov
+2026-08-27T21:25:12,quarantined,ex1\good\r3(4).mov,ex1\good\Copy of r3.mov,Cut Vids Final\_duplicates_removed\ex1\good\Copy of r3.mov
